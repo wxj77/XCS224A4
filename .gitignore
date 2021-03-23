@@ -135,7 +135,7 @@ dmypy.json
 main.pdf
 
 # Solution-related files
-*_soln*
-*_(soln)*
-*_(soln)/*
+#*_soln*
+#*_(soln)*
+#*_(soln)/*
 .DS_Store
